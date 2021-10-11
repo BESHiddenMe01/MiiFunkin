@@ -1,5 +1,0 @@
-stage
-mii-channel
-mii-channel-glitch
-mii-channel-dark
-hallway
